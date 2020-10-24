@@ -1,0 +1,99 @@
+body
+{
+    font-family: Calibri;
+    overflow-x: hidden;
+    
+    
+}
+.navbar
+{
+    border-radius: 0;
+    margin: 0;
+    font-weight: bold;
+}
+li>a:hover
+{
+    color: #d9534f!important;
+}
+
+.jumbotron
+{
+    margin: 0;
+    background-image: url("image/hero.jpg");
+    background-size: cover;
+    
+}
+#heroDes
+{
+    text-align: center;
+    margin-top: 15%;
+}
+#heroDes>.btn{
+width: 25%;
+}
+
+.txt1
+{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#contactButton
+{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imageContainer
+{
+    height: 600px;
+}
+.textic{
+	text-align:center;
+font-family: Calibri;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer
+{
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
